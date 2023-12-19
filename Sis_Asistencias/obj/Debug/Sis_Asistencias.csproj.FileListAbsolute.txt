@@ -1,0 +1,10 @@
+C:\Users\crisd\Documents\Git\Sistema_Asistencias\Sis_Asistencias\bin\Debug\Sis_Asistencias.exe.config
+C:\Users\crisd\Documents\Git\Sistema_Asistencias\Sis_Asistencias\bin\Debug\Sis_Asistencias.exe
+C:\Users\crisd\Documents\Git\Sistema_Asistencias\Sis_Asistencias\bin\Debug\Sis_Asistencias.pdb
+C:\Users\crisd\Documents\Git\Sistema_Asistencias\Sis_Asistencias\obj\Debug\Sis_Asistencias.csproj.AssemblyReference.cache
+C:\Users\crisd\Documents\Git\Sistema_Asistencias\Sis_Asistencias\obj\Debug\Sis_Asistencias.Properties.Resources.resources
+C:\Users\crisd\Documents\Git\Sistema_Asistencias\Sis_Asistencias\obj\Debug\Sis_Asistencias.csproj.GenerateResource.cache
+C:\Users\crisd\Documents\Git\Sistema_Asistencias\Sis_Asistencias\obj\Debug\Sis_Asistencias.csproj.CoreCompileInputs.cache
+C:\Users\crisd\Documents\Git\Sistema_Asistencias\Sis_Asistencias\obj\Debug\Sis_Asistencias.exe
+C:\Users\crisd\Documents\Git\Sistema_Asistencias\Sis_Asistencias\obj\Debug\Sis_Asistencias.pdb
+C:\Users\crisd\Documents\Git\Sistema_Asistencias\Sis_Asistencias\obj\Debug\Sis_Asistencias.Vistas.MenuPrincipal.resources
